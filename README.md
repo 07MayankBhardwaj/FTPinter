@@ -1,8 +1,5 @@
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![image](https://user-images.githubusercontent.com/127011697/234891399-1a9bd476-59b4-4d2d-baec-ac5106f6e9e7.png)
 
 # FTP client-server using Tkinter 
 
@@ -165,7 +162,8 @@ Finally, the `main()` function is called only if the script is being executed di
 
 ## Demo
 
-Insert gif or link to demo
+![image](https://user-images.githubusercontent.com/127011697/234891819-861658d2-5b50-4a6e-8790-08f9094d89d7.png)
+
 
 
 ## Authors
